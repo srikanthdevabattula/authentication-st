@@ -1,6 +1,6 @@
-# Nodejs Authentication Project 🚀
+# Nodejs Authentication Project 
 
-## ⭐ Introduction
+##  Introduction
 
 This is a Nodejs Authentication  Project which is built using Nodejs, Ejs ,CSS, Javascript , Bootstrap. It is responsive across all devices.
 <br/>
